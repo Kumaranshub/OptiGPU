@@ -231,33 +231,3 @@ optigpu/
 ├── pyproject.toml
 └── requirements.txt
 ```
-
----
-
-## Development
-```bash
-pip install -e ".[dev]"
-pytest tests/ -v
-ruff check optigpu/
-black optigpu/ tests/
-```
-
----
-
-## License
-
-MIT © 2025 · See [LICENSE](LICENSE)
-
----
-
-<div align="center">
-
-<br/>
-
-**[⭐ Star](https://github.com/YOUR_USERNAME/optigpu)** &nbsp;·&nbsp; **[Open in Colab](https://colab.research.google.com/github/YOUR_USERNAME/optigpu/blob/main/notebooks/OptiGPU_Demo.ipynb)** &nbsp;·&nbsp; **[Report Issue](https://github.com/YOUR_USERNAME/optigpu/issues)** &nbsp;·&nbsp; **[Contribute](CONTRIBUTING.md)**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001C,40:0d2137,70:1a0533,100:03001C&height=120&section=footer" />
-
-</div>
