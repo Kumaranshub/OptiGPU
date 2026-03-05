@@ -1,28 +1,5 @@
-<table>
-<tr>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/-₹0_cloud_spend-161b22?style=for-the-badge&labelColor=161b22&color=161b22"/>
-<br/><b>Runs free on Colab</b>
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/-4–8×_faster-161b22?style=for-the-badge&labelColor=161b22&color=161b22"/>
-<br/><b>vs naive RTX 5090</b>
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/-455×_efficient-161b22?style=for-the-badge&labelColor=161b22&color=161b22"/>
-<br/><b>ESP32 vs 5090 per watt</b>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
----
-
 > [!NOTE]
-> **The thesis in one line:** The RTX 5090 costs ₹2,50,000. A free Colab T4 running OptiGPU beats it on AI inference. Hardware specs are the ceiling — software determines the floor.
+> **Thesis:** The RTX 5090 costs ₹2,50,000. A free Colab T4 running OptiGPU beats it on AI inference. Hardware specs are the ceiling — software determines the floor.
 
 ---
 
