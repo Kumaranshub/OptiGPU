@@ -1,4 +1,3 @@
 basic wired mpmc gaming controller 
-wireless as well using Bluetooth module
+wireless mode using keyboard mouse module.
 developing a free app while we are at it
-Logitech wheel diy
