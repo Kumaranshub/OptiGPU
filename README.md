@@ -130,22 +130,21 @@ python main.py
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, suggestions, and improvements are welcome.
 Feel free to open issues or submit pull requests.
 
 ---
 
-## 📜 License
+## License
 
 MIT License
 
 ---
 
-## 👨‍💻 Author
+## Author
 
-Developed by **[Your Name]**
-Computer Science Student | AI + AR Enthusiast
+Developed by **Kumaran Chandrashekat**
 
 ---
