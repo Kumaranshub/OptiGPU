@@ -1,99 +1,98 @@
-# 🕶️ BARF — Binarily Augmented Reality Framework
+# BARF — Binarily Augmented Reality Framework
 
 > *“Turning vision into intelligence.”*
 
 ---
 
-## 🚀 Overview
+## Overview
 
 **BARF (Binarily Augmented Reality Framework)** is a wearable AI-powered augmented reality system that enhances human perception in real time. Built using a head-mounted AR setup, BARF transforms raw visual input into meaningful, contextual insights—delivered directly into the user’s field of view.
 
 The project aims to replicate an **Iron Man–style HUD experience** by integrating:
 
-* 👁️ Computer Vision
-* 🧠 Artificial Intelligence
-* 🕶️ Augmented Reality
-* 🗣️ Voice Interaction
+* Computer Vision
+* Artificial Intelligence
+* Augmented Reality
+* Voice Interaction
 
 ---
 
-## 🎯 Key Features
+## Key Features
 
-### 🔍 Real-Time Object Detection
+### Real-Time Object Detection
 
 Identify and label everyday objects in the environment using computer vision models.
 
-### 🧾 Optical Character Recognition (OCR)
+### Optical Character Recognition (OCR)
 
 Extract and interpret text from books, screens, and signage in real time.
 
-### 🧠 Scene Understanding
+### Scene Understanding
 
 Generate contextual descriptions of surroundings
 *(e.g., “You are in a classroom with multiple people.”)*
 
-### 🗣️ AI Voice Assistant
+### AI Voice Assistant
 
 Interact with the system using natural language:
 
 * Ask questions about what you see
 * Receive spoken and visual responses
 
-### 🧭 AR-Based Navigation *(Planned)*
+### AR-Based Navigation *(Planned)*
 
 Overlay directional cues and navigation arrows directly into the real world.
 
-### 👤 Context Awareness *(Future Scope)*
+### Context Awareness *(Future Scope)*
 
 Recognize familiar individuals and provide relevant contextual memory (privacy-aware).
 
 ---
 
-## 🧩 System Architecture
+## System Architecture
 
 ```
 Camera → Processing Unit → AI Models → AR Display
 ```
 
-* 📷 **Camera** captures real-time visual data
-* 🧠 **Processing Unit** (Smartphone / Raspberry Pi / Jetson) runs AI models
-* 🤖 **AI Models** perform detection, recognition, and reasoning
-* 🕶️ **AR Display** overlays results in the user’s field of view
+* **Camera** captures real-time visual data
+* **Processing Unit** (Smartphone / Raspberry Pi / Jetson) runs AI models
+* **AI Models** perform detection, recognition, and reasoning
+* **AR Display** overlays results in the user’s field of view
 
 ---
 
-## 🛠️ Hardware Setup
+##  Hardware Setup
 
-* 🎥 Camera Module (USB / Pi Camera)
-* 🧠 Processing Unit:
-
-  * Smartphone *(recommended for performance)*
-  * Raspberry Pi / Jetson *(standalone option)*
-* 🕶️ AR Headset (e.g., Lenovo Star Wars AR Headset)
-* 🔋 External Battery Pack
-* 🎤 Microphone + 🔊 Speaker
+* Camera Module (USB / Pi Camera)
+* Processing Unit:
+  
+* Raspberry Pi 
+* AR Headset 
+* External Battery Pack
+* Microphone + Speaker
 
 ---
 
-## 💻 Software Stack
+##  Software Stack
 
-### 👁️ Computer Vision
+###  Computer Vision
 
 * OpenCV
 * YOLO (object detection)
 
-### 🧠 AI & Language Processing
+###  AI & Language Processing
 
 * OpenAI API
 * Whisper (speech-to-text)
 
-### 🕶️ AR Interface
+### AR Interface
 
 * Unity / AR SDK
 
 ---
 
-## ⚙️ Workflow
+##  Workflow
 
 1. Capture live video stream from camera
 2. Process frames using AI models (object detection, OCR, etc.)
@@ -103,7 +102,7 @@ Camera → Processing Unit → AI Models → AR Display
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 # Clone the repository
@@ -121,40 +120,13 @@ python main.py
 
 ---
 
-## 🧪 Project Status
+## Project Status
 
-🚧 **Prototype Stage**
+ **Prototype Stage**
 
 * Core vision pipeline implemented
 * Basic AR overlay functional
 * AI integration in progress
-
----
-
-## 🔮 Roadmap
-
-* 🧠 Optimize on-device AI performance
-* 🌐 Enable offline capabilities
-* 👋 Add gesture-based interaction
-* 🎯 Improve AR alignment and stability
-* 🔋 Enhance power efficiency
-
----
-
-## ⚠️ Challenges
-
-* Real-time processing latency
-* Accurate AR overlay alignment
-* Hardware weight and ergonomics
-* Battery life constraints
-
----
-
-## 🏆 Inspiration
-
-* Iron Man HUD interfaces
-* Next-generation AR systems
-* AI-powered real-world assistants
 
 ---
 
