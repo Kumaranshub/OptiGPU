@@ -6,7 +6,7 @@
 
 ## Overview
 
-**BARF (Binarily Augmented Reality Framework)** is a wearable AI-powered augmented reality system that enhances human perception in real time. Built using a head-mounted AR setup, BARF transforms raw visual input into meaningful, contextual insights—delivered directly into the user’s field of view.
+**BARF (Binarily Augmented Reality Framework)** is a wearable AI-powered augmented reality system that enhances human perception in real time. Built using a head-mounted AR setup, BARF transforms raw visual input into meaningful, contextual insights—delivered directly into the user’s field of view. Using Apples A13 Chip to Power it. Iphone se (2020)
 
 The project aims to replicate an **Iron Man–style HUD experience** by integrating:
 
