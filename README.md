@@ -1,7 +1,5 @@
 # BARF — Binarily Augmented Reality Framework
 
-> *“Turning vision into intelligence.”*
-
 ---
 
 ## Overview
